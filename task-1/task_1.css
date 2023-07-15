@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#lorem-text{
+    width: 300px;
+    height: 100px;
+}
